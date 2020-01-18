@@ -9,5 +9,15 @@ source:[[https://jp.finalfantasyxiv.com/lodestone/playguide/db/][エオルゼア
 
 
 
-記載されている会社名・製品名・システム名などは各社の商標、または登録商標です。
-Copyright (C) 2010-2020 SQUARE ENIX CO., LTD. All Rights Reserved.
+: 記載されている会社名・製品名・システム名などは各社の商標、または登録商標です。  
+: Copyright (C) 2010-2020 SQUARE ENIX CO., LTD. All Rights Reserved.  
+
+
+
+|----------------------+---+---|
+|                      |   |   |
+|----------------------+---+---|
+| SKK-JISYO.ff14.world |   |   |
+|----------------------+---+---|
+|                      |   |   |
+|----------------------+---+---|
