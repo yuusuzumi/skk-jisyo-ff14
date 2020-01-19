@@ -24,3 +24,16 @@ source:[[https://jp.finalfantasyxiv.com/lodestone/playguide/db/][エオルゼア
 |------------------------------+--------------------------------------------------------+------------|
 | SKK-JISYO.ff14.world         | ff14の世界観や地名、国名など                           | utf-8      |
 |------------------------------+--------------------------------------------------------+------------|
+
+
+
+** 開発環境
+
+virtualbox(ubuntu19.10+ibus-skk)  
+
+
+
+** ダウンロード
+
+: git clone https://github.com/yuusuzumi/skk-jisyo-ff14  
+
